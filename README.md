@@ -1,12 +1,11 @@
 # 👾 CodeSquad_CB_134
 
-Bienvenidos al **Club de Programación del CBTIS 134**.  
+Bienvenidos al **Club de Programación**.  
 Este es un espacio abierto para aprender, compartir y resolver dudas sobre **pseudocódigo, algoritmos y C++**, ideal para quienes **empiezan desde cero**.
 
 Aquí todos tienen el mismo nivel de participación: puedes hacer preguntas, ayudar a resolver dudas, aportar guías o simplemente aprender observando.
 
 ---
-
 ## 🧠 ¿Qué es CodeSquad_CB_134?
 
 Un repositorio comunitario donde los alumnos pueden:
@@ -20,38 +19,42 @@ Un repositorio comunitario donde los alumnos pueden:
 
 ---
 
-## 🙋‍♂️ ¿Quién puede participar?
+## 🤔 ¿Por qué GitHub y no Discord, WhatsApp u otras apps?
 
-- Estudiantes del CBTIS 134, especialmente del grupo 2°B autorizados 
-- Cualquier principiante que quiera aprender pseudocódigo, C++ y algoritmos
-- No necesitas saber GitHub ni usar compiladores… **aquí aprenderás poco a poco**
+- ✅ GitHub permite **ver y analizar código fácilmente** (con colores y numeración)
+- ✅ Todo queda **ordenado por carpetas y fechas**
+- ✅ Puedes editar, comentar y responder **desde el navegador web**
+- ✅ Es **gratis, rápido y profesional**
+- ✅ No necesitas instalar nada ni usar comandos complicados
+
+> 📌 **Todo en este club se hará usando solo GitHub Web.**  
+No es necesario instalar Git, MINGW, Visual Studio, ni usar la terminal.
 
 ---
 
 ## 🚀 ¿Cómo participar?
 
-### 1. ¿Tienes una duda?
-- Ve a la carpeta `/tickets`
-- Crea un nuevo archivo con el formato `YYYY-MM-DD_ticket-xxx.md`
-- Escribe claramente tu problema o pregunta
-- Sube el archivo al repositorio
+### 1. ¿Tienes una duda (ticket)?
 
-### 2. ¿Quieres ayudar a alguien?
-- Entra a la carpeta `/tickets`
-- Lee las dudas no resueltas
-- Responde en un comentario o corrige el archivo
-- Recibirás reconocimiento en la sección de ayudantes
+Puedes subirla desde tu computadora **o directamente desde el navegador en GitHub**.
 
-### 3. ¿Quieres compartir conocimiento?
-- Ve a la carpeta `/guias`
-- Crea una guía útil en formato Markdown (`.md`)
-- Ejemplos: cómo instalar un compilador, cómo usar if/else, cómo empezar un algoritmo, etc.
+#### 🔹 OPCIÓN A: Subir desde GitHub en línea
 
-### 4. ¿Tienes recursos útiles?
-- Agrega tus enlaces, PDFs o herramientas en `/recursos/recursos.md`
+1. Entra al repositorio `CodeSquad_CB_134`
+2. Da clic en la carpeta `tickets`
+3. Presiona el botón **"Add file"** → **"Create new file"**
+4. Escribe como nombre de archivo: `2025-04-04_ticket-tu-nombre.md`
+5. Copia y pega el contenido de la plantilla que está en `tickets/TEMPLATE_ticket.md`
+6. Rellena tus datos y tu duda
+7. Al final, baja y presiona **"Commit new file"**
 
-### 5. ¿Quieres participar en los foros?
-- Ve a `/foro` y comenta libremente temas abiertos, tips o inquietudes generales
+#### 🔹 OPCIÓN B: Usar el editor tipo Visual Studio Web de GitHub
+
+1. Presiona la tecla `.` (punto) mientras estás en el repositorio  
+   o visita: `https://github.dev/<usuario>/<repositorio>`  
+   *(Ejemplo: `https://github.dev/giocanto/CodeSquad_CB_134`)*  
+2. Se abrirá una versión de GitHub parecida a Visual Studio Code (pero en tu navegador)
+3. Desde ahí puedes editar, escribir y subir archivos directamente
 
 ---
 
@@ -67,7 +70,8 @@ CodeSquad_CB_134/
 ├── reconocimientos.md      (Lista de quienes más apoyan a la comunidad)
 ├── README.md               (Este archivo)
 ├── CONTRIBUTING.md         (Guía rápida para colaborar correctamente)
-└── logo/                   (Logo e imagen de portada del club)
+├── logo/                   (Logo e imagen de portada del club)
+└── tickets/TEMPLATE_ticket.md (Plantilla para escribir tickets fácilmente)
 ```
 
 ---
@@ -79,6 +83,7 @@ Nuestro canal oficial de comunicación es **WhatsApp**, donde:
 - Se avisa de nuevas dudas o actividades
 - Se resuelven dudas rápidas
 - Se organizan sesiones de tutoría o ayuda en tiempo real
+
 ---
 
 ## 🧾 Reglas del Club
@@ -97,15 +102,12 @@ Los miembros más activos que ayuden a resolver dudas o compartan guías útiles
 
 ---
 
-## 📹 Tutoriales recomendados
+## 📹 Tutoriales recomendados (solo GitHub web, nada avanzado)
 
-### ¿Cómo usar GitHub desde cero?
-- [GitHub para Principiantes (Video en Español)](https://www.youtube.com/watch?v=HiXLkL42tMU)
-- [Cómo usar Git y GitHub desde cero (2024)](https://www.youtube.com/watch?v=1h9_cB9mPT8)
-
-### ¿Qué es un compilador y cómo instalar uno?
-- [Cómo instalar y usar Code::Blocks (C++)](https://www.youtube.com/watch?v=PLf29aTm4Tg)
-- [Aprende a usar un compilador online (replit)](https://www.youtube.com/watch?v=2f3iJdHzrWg)
+### 🔰 Uso básico de GitHub (sin instalar nada)
+- [Cómo usar GitHub desde el navegador para principiantes (2023)](https://www.youtube.com/watch?v=yRr2gT3Fv4I)
+- [Guía para crear archivos en GitHub web (principiantes)](https://www.youtube.com/watch?v=OltY8JIaP9Q)
+- [¿Qué es GitHub? Explicación fácil y rápida](https://www.youtube.com/watch?v=tN8jiDUb9z8)
 
 ---
 
