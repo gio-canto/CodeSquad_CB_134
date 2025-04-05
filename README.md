@@ -36,6 +36,15 @@ No es necesario instalar Git, MINGW, Visual Studio, ni usar la terminal.
 
 ### 1. ¿Tienes una duda? (puedes usar Tickets o Issues)
 
+Puedes subir tu duda de dos formas: usando la carpeta `/tickets` o la sección de **Issues**.  
+Ambas son válidas, pero se usan dependiendo del tipo de duda o cómo te acomodes mejor:
+
+| Método      | ¿Cuándo usarlo?                                                  | ¿Para quién es ideal?                  |
+|-------------|------------------------------------------------------------------|----------------------------------------|
+| **Issues**  | Para dudas rápidas o si no sabes usar archivos `.md`             | Principiantes                          |
+| **Tickets** | Para dudas más largas, con mucho código o errores complejos      | Quienes ya manejan Markdown o quieren guardar su duda como archivo |
+
+
 Puedes subirla desde tu computadora **o directamente desde el navegador en GitHub**.
 
 #### 🔹 OPCIÓN A: Usar la sección de Issues (más fácil y rápido)
@@ -67,6 +76,27 @@ Tu duda se publicará como una tarjeta que otros podrán leer y responder fácil
    *(Ejemplo: `https://github.dev/giocanto/CodeSquad_CB_134`)*  
 2. Se abrirá una versión de GitHub parecida a Visual Studio Code (pero en tu navegador)
 3. Desde ahí puedes editar, escribir y subir archivos directamente
+4. 
+## 🧪 ¿Y si tengo un caso complejo o código muy largo?
+
+Si tu duda tiene muchos fragmentos de código, varios errores o necesitas explicar algo técnico más detallado, te recomendamos usar:
+
+### ✅ La carpeta `/tickets/` (recomendado para casos complejos)
+Ahí puedes:
+
+- Copiar y pegar todo tu código con formato
+- Explicar paso a paso el problema
+- Usar la plantilla completa `TEMPLATE_ticket.md`
+- Agregar varias secciones de análisis si lo necesitas
+
+Esto ayuda a que quienes te lean puedan analizar con calma y responderte mejor.
+
+Ejemplo:
+```
+/tickets/2025-04-04_ticket-JuanAlgoritmos.md
+```
+
+👉 También puedes usar el editor tipo Visual Studio en GitHub Web (`https://github.dev`) para escribir con más comodidad.
 
 ---
 
