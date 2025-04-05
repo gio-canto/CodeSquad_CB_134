@@ -120,7 +120,7 @@ No uses el contenido con fines comerciales hasta definirlo.
 
 ## 👨‍🏫 Creado por
 
-**Gio Antonio Canto Gómez**  
+**Gio**  
 Año: 2025  
 
 ---
