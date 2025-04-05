@@ -8,43 +8,58 @@ assignees: ''
 
 ---
 
-## 🧠 TICKET DE DUDA
+#  Nuevo Ticket – [AÑO-MES-DÍA]
 
-**Tu nombre **  
-_Ejemplo: Gio Antonio_
-
-**fecha:**  
-2025-04-04_
-
-**Lenguaje o tema:**  
-_Ejemplo: C++, Pseudocódigo, Algoritmos_
+**Lenguaje:** [Escribe aquí: C++, Pseudocódigo, Otro]  
+**Tipo de duda:** [Código en revisión / Error de compilador / Duda externa / Teoría]
 
 ---
 
-### ❓ ¿Cuál es tu duda o problema?
+## ❓ Descripción del problema
 
-_Explica con claridad qué estás intentando hacer, qué no entiendes o qué falla._
-
----
-
-### 🧪 ¿Qué intentaste hacer?
-
-_Escribe lo que ya probaste o cambiaste en tu código._
+[Describe aquí lo que no entiendes, el error o tu duda]
 
 ---
 
-### 💥 Mensaje del compilador (si hay)
+## 💥 Mensaje del compilador (si aplica)
 
-
----
-
-### 💻 Código que estás usando (si aplica)
-
-```cpp
-Pega aquí el código que estás tratando de hacer funcionar
+```
+[Pega aquí el mensaje que te dio el compilador]
+```
 
 ---
 
-#### ✅ **Issue default title (título sugerido):**
-```text
-[TICKET] Escribe aquí tu duda o tema
+## ¿Qué intentaste hacer?
+
+[Explica qué probaste o cambiaste para resolverlo]
+
+---
+
+## Qué esperas que pase
+
+[Explica lo que esperas que ocurra si se resuelve tu duda]
+
+---
+
+## Duda externa (opcional)
+
+[Haz una pregunta adicional relacionada si la tienes]
+
+---
+
+## Notas adicionales
+
+[Cualquier otro dato que quieras agregar]
+
+---
+
+## Autor del ticket
+
+**Nombre:** [Tu nombre (Solo primer nombre)]  
+**Fecha:** [Año-Mes-Día]   
+
+---
+
+## 🔁 Respuestas a esta duda
+
+---
