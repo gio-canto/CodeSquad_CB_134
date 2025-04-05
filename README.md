@@ -32,13 +32,25 @@ No es necesario instalar Git, MINGW, Visual Studio, ni usar la terminal.
 
 ---
 
-## 🚀 ¿Cómo participar?
+# 🚀 ¿Cómo participar?
 
-### 1. ¿Tienes una duda (ticket)?
+### 1. ¿Tienes una duda? (puedes usar Tickets o Issues)
 
 Puedes subirla desde tu computadora **o directamente desde el navegador en GitHub**.
 
-#### 🔹 OPCIÓN A: Subir desde GitHub en línea
+#### 🔹 OPCIÓN A: Usar la sección de Issues (más fácil y rápido)
+
+1. Ve a la pestaña **"Issues"** (arriba del todo en GitHub)
+2. Da clic en **"New issue"**
+3. Selecciona la plantilla **"Ticket de duda o ayuda"**
+4. Llena los campos como un formulario
+5. Da clic en **"Submit new issue"**
+
+Tu duda se publicará como una tarjeta que otros podrán leer y responder fácilmente.
+
+---
+    
+#### 🔹 OPCIÓN B: Subir desde GitHub en línea (carpeta tickets)
 
 1. Entra al repositorio `CodeSquad_CB_134`
 2. Da clic en la carpeta `tickets`
